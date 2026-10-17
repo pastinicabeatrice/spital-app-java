@@ -1,0 +1,7 @@
+101, Ion Popa, Cardiologie
+102, Elena Matei, Pediatrie
+103, Mihai Stan, Cardiologie
+104, Ana Dobre, Neurologie
+105, Radu Ilie, Cardiologie
+106, Ioana Lazar, Pediatrie
+107, Victor Nistor, Ortopedie
